@@ -1,0 +1,23 @@
+[9.396s] Invoking command in '/home/ubuntu/ros2_ws/src/py_serialinput': PYTHONPATH=/home/ubuntu/ros2_ws/build/py_serialinput/prefix_override:/home/ubuntu/ros2_ws/install/py_serialinput/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_serialinput build --build-base /home/ubuntu/ros2_ws/build/py_serialinput/build install --record /home/ubuntu/ros2_ws/build/py_serialinput/install.log --install-scripts $base/lib/py_serialinput --single-version-externally-managed
+[12.889s] running egg_info
+[12.892s] writing ../../build/py_serialinput/py_serialinput.egg-info/PKG-INFO
+[12.893s] writing dependency_links to ../../build/py_serialinput/py_serialinput.egg-info/dependency_links.txt
+[12.893s] writing entry points to ../../build/py_serialinput/py_serialinput.egg-info/entry_points.txt
+[12.894s] writing requirements to ../../build/py_serialinput/py_serialinput.egg-info/requires.txt
+[12.894s] writing top-level names to ../../build/py_serialinput/py_serialinput.egg-info/top_level.txt
+[13.082s] reading manifest file '../../build/py_serialinput/py_serialinput.egg-info/SOURCES.txt'
+[13.086s] writing manifest file '../../build/py_serialinput/py_serialinput.egg-info/SOURCES.txt'
+[13.086s] running build
+[13.086s] running build_py
+[13.087s] running install
+[13.099s] running install_lib
+[13.113s] running install_data
+[13.115s] copying resource/py_serialinput -> /home/ubuntu/ros2_ws/install/py_serialinput/share/ament_index/resource_index/packages
+[13.116s] copying package.xml -> /home/ubuntu/ros2_ws/install/py_serialinput/share/py_serialinput
+[13.116s] running install_egg_info
+[13.131s] Copying ../../build/py_serialinput/py_serialinput.egg-info to /home/ubuntu/ros2_ws/install/py_serialinput/lib/python3.8/site-packages/py_serialinput-0.0.0-py3.8.egg-info
+[13.134s] running install_scripts
+[13.260s] Installing listener script to /home/ubuntu/ros2_ws/install/py_serialinput/lib/py_serialinput
+[13.261s] Installing talker script to /home/ubuntu/ros2_ws/install/py_serialinput/lib/py_serialinput
+[13.261s] writing list of installed files to '/home/ubuntu/ros2_ws/build/py_serialinput/install.log'
+[13.336s] Invoked command in '/home/ubuntu/ros2_ws/src/py_serialinput' returned '0': PYTHONPATH=/home/ubuntu/ros2_ws/build/py_serialinput/prefix_override:/home/ubuntu/ros2_ws/install/py_serialinput/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_serialinput build --build-base /home/ubuntu/ros2_ws/build/py_serialinput/build install --record /home/ubuntu/ros2_ws/build/py_serialinput/install.log --install-scripts $base/lib/py_serialinput --single-version-externally-managed

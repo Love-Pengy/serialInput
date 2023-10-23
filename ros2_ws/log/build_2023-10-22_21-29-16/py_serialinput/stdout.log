@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/py_serialinput/py_serialinput.egg-info
+writing ../../build/py_serialinput/py_serialinput.egg-info/PKG-INFO
+writing dependency_links to ../../build/py_serialinput/py_serialinput.egg-info/dependency_links.txt
+writing entry points to ../../build/py_serialinput/py_serialinput.egg-info/entry_points.txt
+writing requirements to ../../build/py_serialinput/py_serialinput.egg-info/requires.txt
+writing top-level names to ../../build/py_serialinput/py_serialinput.egg-info/top_level.txt
+writing manifest file '../../build/py_serialinput/py_serialinput.egg-info/SOURCES.txt'
+reading manifest file '../../build/py_serialinput/py_serialinput.egg-info/SOURCES.txt'
+writing manifest file '../../build/py_serialinput/py_serialinput.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/ubuntu/ros2_ws/build/py_serialinput/build
+creating /home/ubuntu/ros2_ws/build/py_serialinput/build/lib
+creating /home/ubuntu/ros2_ws/build/py_serialinput/build/lib/py_serialinput
+copying py_serialinput/__init__.py -> /home/ubuntu/ros2_ws/build/py_serialinput/build/lib/py_serialinput
+copying py_serialinput/publisher_member_function.py -> /home/ubuntu/ros2_ws/build/py_serialinput/build/lib/py_serialinput
+copying py_serialinput/subscriber_member_function.py -> /home/ubuntu/ros2_ws/build/py_serialinput/build/lib/py_serialinput
+running install
+running install_lib
+creating /home/ubuntu/ros2_ws/install/py_serialinput/lib/python3.8/site-packages/py_serialinput
+copying /home/ubuntu/ros2_ws/build/py_serialinput/build/lib/py_serialinput/__init__.py -> /home/ubuntu/ros2_ws/install/py_serialinput/lib/python3.8/site-packages/py_serialinput
+copying /home/ubuntu/ros2_ws/build/py_serialinput/build/lib/py_serialinput/publisher_member_function.py -> /home/ubuntu/ros2_ws/install/py_serialinput/lib/python3.8/site-packages/py_serialinput
+copying /home/ubuntu/ros2_ws/build/py_serialinput/build/lib/py_serialinput/subscriber_member_function.py -> /home/ubuntu/ros2_ws/install/py_serialinput/lib/python3.8/site-packages/py_serialinput
+byte-compiling /home/ubuntu/ros2_ws/install/py_serialinput/lib/python3.8/site-packages/py_serialinput/__init__.py to __init__.cpython-38.pyc
+byte-compiling /home/ubuntu/ros2_ws/install/py_serialinput/lib/python3.8/site-packages/py_serialinput/publisher_member_function.py to publisher_member_function.cpython-38.pyc
+byte-compiling /home/ubuntu/ros2_ws/install/py_serialinput/lib/python3.8/site-packages/py_serialinput/subscriber_member_function.py to subscriber_member_function.cpython-38.pyc
+running install_data
+creating /home/ubuntu/ros2_ws/install/py_serialinput/share/ament_index
+creating /home/ubuntu/ros2_ws/install/py_serialinput/share/ament_index/resource_index
+creating /home/ubuntu/ros2_ws/install/py_serialinput/share/ament_index/resource_index/packages

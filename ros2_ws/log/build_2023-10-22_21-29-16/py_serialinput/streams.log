@@ -1,0 +1,34 @@
+[9.811s] Invoking command in '/home/ubuntu/ros2_ws/src/py_serialinput': PYTHONPATH=/home/ubuntu/ros2_ws/build/py_serialinput/prefix_override:/home/ubuntu/ros2_ws/install/py_serialinput/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_serialinput build --build-base /home/ubuntu/ros2_ws/build/py_serialinput/build install --record /home/ubuntu/ros2_ws/build/py_serialinput/install.log --install-scripts $base/lib/py_serialinput --single-version-externally-managed
+[13.284s] running egg_info
+[13.286s] creating ../../build/py_serialinput/py_serialinput.egg-info
+[13.287s] writing ../../build/py_serialinput/py_serialinput.egg-info/PKG-INFO
+[13.288s] writing dependency_links to ../../build/py_serialinput/py_serialinput.egg-info/dependency_links.txt
+[13.289s] writing entry points to ../../build/py_serialinput/py_serialinput.egg-info/entry_points.txt
+[13.289s] writing requirements to ../../build/py_serialinput/py_serialinput.egg-info/requires.txt
+[13.289s] writing top-level names to ../../build/py_serialinput/py_serialinput.egg-info/top_level.txt
+[13.315s] writing manifest file '../../build/py_serialinput/py_serialinput.egg-info/SOURCES.txt'
+[13.494s] reading manifest file '../../build/py_serialinput/py_serialinput.egg-info/SOURCES.txt'
+[13.497s] writing manifest file '../../build/py_serialinput/py_serialinput.egg-info/SOURCES.txt'
+[13.497s] running build
+[13.498s] running build_py
+[13.498s] creating /home/ubuntu/ros2_ws/build/py_serialinput/build
+[13.499s] creating /home/ubuntu/ros2_ws/build/py_serialinput/build/lib
+[13.499s] creating /home/ubuntu/ros2_ws/build/py_serialinput/build/lib/py_serialinput
+[13.500s] copying py_serialinput/__init__.py -> /home/ubuntu/ros2_ws/build/py_serialinput/build/lib/py_serialinput
+[13.500s] copying py_serialinput/publisher_member_function.py -> /home/ubuntu/ros2_ws/build/py_serialinput/build/lib/py_serialinput
+[13.501s] copying py_serialinput/subscriber_member_function.py -> /home/ubuntu/ros2_ws/build/py_serialinput/build/lib/py_serialinput
+[13.501s] running install
+[13.512s] running install_lib
+[13.516s] creating /home/ubuntu/ros2_ws/install/py_serialinput/lib/python3.8/site-packages/py_serialinput
+[13.516s] copying /home/ubuntu/ros2_ws/build/py_serialinput/build/lib/py_serialinput/__init__.py -> /home/ubuntu/ros2_ws/install/py_serialinput/lib/python3.8/site-packages/py_serialinput
+[13.517s] copying /home/ubuntu/ros2_ws/build/py_serialinput/build/lib/py_serialinput/publisher_member_function.py -> /home/ubuntu/ros2_ws/install/py_serialinput/lib/python3.8/site-packages/py_serialinput
+[13.517s] copying /home/ubuntu/ros2_ws/build/py_serialinput/build/lib/py_serialinput/subscriber_member_function.py -> /home/ubuntu/ros2_ws/install/py_serialinput/lib/python3.8/site-packages/py_serialinput
+[13.528s] byte-compiling /home/ubuntu/ros2_ws/install/py_serialinput/lib/python3.8/site-packages/py_serialinput/__init__.py to __init__.cpython-38.pyc
+[13.532s] byte-compiling /home/ubuntu/ros2_ws/install/py_serialinput/lib/python3.8/site-packages/py_serialinput/publisher_member_function.py to publisher_member_function.cpython-38.pyc
+[13.533s] byte-compiling /home/ubuntu/ros2_ws/install/py_serialinput/lib/python3.8/site-packages/py_serialinput/subscriber_member_function.py to subscriber_member_function.cpython-38.pyc
+[13.535s] running install_data
+[13.537s] creating /home/ubuntu/ros2_ws/install/py_serialinput/share/ament_index
+[13.537s] creating /home/ubuntu/ros2_ws/install/py_serialinput/share/ament_index/resource_index
+[13.538s] creating /home/ubuntu/ros2_ws/install/py_serialinput/share/ament_index/resource_index/packages
+[13.538s] error: can't copy 'resource/py_serialinput': doesn't exist or not a regular file
+[13.605s] Invoked command in '/home/ubuntu/ros2_ws/src/py_serialinput' returned '1': PYTHONPATH=/home/ubuntu/ros2_ws/build/py_serialinput/prefix_override:/home/ubuntu/ros2_ws/install/py_serialinput/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_serialinput build --build-base /home/ubuntu/ros2_ws/build/py_serialinput/build install --record /home/ubuntu/ros2_ws/build/py_serialinput/install.log --install-scripts $base/lib/py_serialinput --single-version-externally-managed

@@ -1,0 +1,16 @@
+[9.436s] Invoking command in '/home/ubuntu/ros2_ws/src/py_serialinput': PYTHONPATH=/home/ubuntu/ros2_ws/build/py_serialinput/prefix_override:/home/ubuntu/ros2_ws/install/py_serialinput/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_serialinput build --build-base /home/ubuntu/ros2_ws/build/py_serialinput/build install --record /home/ubuntu/ros2_ws/build/py_serialinput/install.log --install-scripts $base/lib/py_serialinput --single-version-externally-managed
+[12.932s] running egg_info
+[12.935s] writing ../../build/py_serialinput/py_serialinput.egg-info/PKG-INFO
+[12.936s] writing dependency_links to ../../build/py_serialinput/py_serialinput.egg-info/dependency_links.txt
+[12.936s] writing entry points to ../../build/py_serialinput/py_serialinput.egg-info/entry_points.txt
+[12.937s] writing requirements to ../../build/py_serialinput/py_serialinput.egg-info/requires.txt
+[12.937s] writing top-level names to ../../build/py_serialinput/py_serialinput.egg-info/top_level.txt
+[13.126s] reading manifest file '../../build/py_serialinput/py_serialinput.egg-info/SOURCES.txt'
+[13.129s] writing manifest file '../../build/py_serialinput/py_serialinput.egg-info/SOURCES.txt'
+[13.130s] running build
+[13.130s] running build_py
+[13.131s] running install
+[13.143s] running install_lib
+[13.157s] running install_data
+[13.159s] error: can't copy 'resource/py_serialinput': doesn't exist or not a regular file
+[13.225s] Invoked command in '/home/ubuntu/ros2_ws/src/py_serialinput' returned '1': PYTHONPATH=/home/ubuntu/ros2_ws/build/py_serialinput/prefix_override:/home/ubuntu/ros2_ws/install/py_serialinput/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_serialinput build --build-base /home/ubuntu/ros2_ws/build/py_serialinput/build install --record /home/ubuntu/ros2_ws/build/py_serialinput/install.log --install-scripts $base/lib/py_serialinput --single-version-externally-managed

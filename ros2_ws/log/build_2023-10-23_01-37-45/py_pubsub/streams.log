@@ -1,0 +1,22 @@
+[9.483s] Invoking command in '/home/ubuntu/ros2_ws/src/py_pubsub': PYTHONPATH=/home/ubuntu/ros2_ws/build/py_pubsub/prefix_override:/home/ubuntu/ros2_ws/install/py_pubsub/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/ubuntu/ros2_ws/build/py_pubsub/build install --record /home/ubuntu/ros2_ws/build/py_pubsub/install.log --install-scripts $base/lib/py_pubsub --single-version-externally-managed
+[12.998s] running egg_info
+[13.000s] writing ../../build/py_pubsub/py_pubsub.egg-info/PKG-INFO
+[13.001s] writing dependency_links to ../../build/py_pubsub/py_pubsub.egg-info/dependency_links.txt
+[13.002s] writing entry points to ../../build/py_pubsub/py_pubsub.egg-info/entry_points.txt
+[13.002s] writing requirements to ../../build/py_pubsub/py_pubsub.egg-info/requires.txt
+[13.003s] writing top-level names to ../../build/py_pubsub/py_pubsub.egg-info/top_level.txt
+[13.193s] reading manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[13.197s] writing manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[13.197s] running build
+[13.197s] running build_py
+[13.198s] running install
+[13.210s] running install_lib
+[13.225s] running install_data
+[13.227s] running install_egg_info
+[13.242s] removing '/home/ubuntu/ros2_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub-0.0.0-py3.8.egg-info' (and everything under it)
+[13.243s] Copying ../../build/py_pubsub/py_pubsub.egg-info to /home/ubuntu/ros2_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub-0.0.0-py3.8.egg-info
+[13.246s] running install_scripts
+[13.374s] Installing listener script to /home/ubuntu/ros2_ws/install/py_pubsub/lib/py_pubsub
+[13.375s] Installing talker script to /home/ubuntu/ros2_ws/install/py_pubsub/lib/py_pubsub
+[13.376s] writing list of installed files to '/home/ubuntu/ros2_ws/build/py_pubsub/install.log'
+[13.455s] Invoked command in '/home/ubuntu/ros2_ws/src/py_pubsub' returned '0': PYTHONPATH=/home/ubuntu/ros2_ws/build/py_pubsub/prefix_override:/home/ubuntu/ros2_ws/install/py_pubsub/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/ubuntu/ros2_ws/build/py_pubsub/build install --record /home/ubuntu/ros2_ws/build/py_pubsub/install.log --install-scripts $base/lib/py_pubsub --single-version-externally-managed
