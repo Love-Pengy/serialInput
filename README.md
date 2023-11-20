@@ -1,4 +1,4 @@
-I got a little lazy so stuffs mad similar to the tut I followed to get started LOL
+
 	To find the serial port: 
 		- in the test folder there's a python file that you can run. Itll echo the port/device info when you unplug/plugin the device. Youll need to change the serial port accordingly in the publisher file. 
 	To build: 
